@@ -1,0 +1,21 @@
+CACHE MANIFEST
+#created : 8/13/2019 7:24:18 PM
+
+#Explicitly cached entries
+CACHE:
+assets/css/default-ssc-theme.css
+assets/css/site.css
+assets/js/jquery.min.js
+assets/js/ssc.formbinder.min.js
+assets/js/equalheight.min.js
+assets/js/ssc.formstorage.min.js
+assets/js/bootstrap.min.js
+assets/js/ssc.script.js
+assets/fonts/glyphicons-halflings-regular.svg
+assets/fonts/glyphicons-halflings-regular.ttf
+assets/fonts/glyphicons-halflings-regular.woff
+
+
+#All Other resources (e.g. sites) require the user to be online
+NETWORK:
+*
